@@ -100,7 +100,7 @@
                         android:id="@+id/btnProfile"
                         android:layout_width="48dp"
                         android:layout_height="48dp"
-                        android:src="@android:drawable/ic_menu_myplaces"
+                        android:src="@drawable/outline_account_circle_24"
                         android:background="?attr/selectableItemBackgroundBorderless"
                         android:contentDescription="Profile"
                         android:tint="@color/text_primary" />
